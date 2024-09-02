@@ -2,7 +2,7 @@
 
 ⚠️ This attack will open CMD until the whole computer gets stuck even after removing attiny85 this program will keep execute.
 
-⚡ When the attiny85 LED starts blinking you can remove the device from the PC.
+⚡ When the attiny85 LED starts blinking you can remove the device from the PC. (Remove device after 20 - 30 seconds)
 
 ⚡ tested on Windows 11
 
