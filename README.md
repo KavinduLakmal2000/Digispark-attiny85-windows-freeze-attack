@@ -1,6 +1,8 @@
 # Digispark-attiny85-windows-freeze-attack
 
-⚠️ this attack will open CMD until the whole computer gets stuck even after removing attiny85 this program will keep execute
+⚠️ This attack will open CMD until the whole computer gets stuck even after removing attiny85 this program will keep execute.
+
+⚡ When the attiny85 LED starts blinking you can remove the device from the PC.
 
 ⚡ tested on Windows 11
 
